@@ -19,7 +19,7 @@ switch(dayOfWeekNumber){
         break;
     case 3:
         nameOfDay = 'wednesday';
-        quote = 'ignore wednesday.';
+        quote = 'sucks wednesday.';
         break;
     case 4:
         nameOfDay = 'Thursday';
@@ -27,7 +27,7 @@ switch(dayOfWeekNumber){
         break;
     case 5:
         nameOfDay = 'friday';
-        quote = 'love friday!';
+        quote = 'you friday!';
         break;
     case 6:
         nameOfDay = 'saturday';
